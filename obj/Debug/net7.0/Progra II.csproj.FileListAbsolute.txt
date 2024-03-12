@@ -1,0 +1,15 @@
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\Progra II.csproj.AssemblyReference.cache
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\Progra II.GeneratedMSBuildEditorConfig.editorconfig
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\Progra II.AssemblyInfoInputs.cache
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\Progra II.AssemblyInfo.cs
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\Progra II.csproj.CoreCompileInputs.cache
+F:\Diky\Desktop\Diky\Progra II\bin\Debug\net7.0\Progra II.exe
+F:\Diky\Desktop\Diky\Progra II\bin\Debug\net7.0\Progra II.deps.json
+F:\Diky\Desktop\Diky\Progra II\bin\Debug\net7.0\Progra II.runtimeconfig.json
+F:\Diky\Desktop\Diky\Progra II\bin\Debug\net7.0\Progra II.dll
+F:\Diky\Desktop\Diky\Progra II\bin\Debug\net7.0\Progra II.pdb
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\Progra II.dll
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\refint\Progra II.dll
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\Progra II.pdb
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\Progra II.genruntimeconfig.cache
+F:\Diky\Desktop\Diky\Progra II\obj\Debug\net7.0\ref\Progra II.dll
